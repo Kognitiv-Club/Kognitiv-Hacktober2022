@@ -6,11 +6,10 @@ This Repository's sole purpose is to help beginners and as well as experienced p
 
 Some of the topics include :
 
-*HTML And CSS files.
-*React projects.
-*Python Full stack projects.
-*DevOps testing Projects.
-*Java Full stack projects.
+* Open CV
+* Classification
+* Maze Solver
+* Data Analysis
 
 As a part of Hacktoberfest Code of Conduct no spamming or irrelevant PRs will be accepted.
 
