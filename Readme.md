@@ -24,10 +24,10 @@ As a part of Hacktoberfest Code of Conduct no spamming or irrelevant PRs will be
 - If you're working with DevOps and testing please add your files to DevOps Floder.
 - Add a README.md file to the folder explaining the code with proper documentation
 - Open the command prompt and cd into the repository folder
-- Run the following Commands
-git add .
-git commit -m"<Name of your Projects>"
-git push
+- Run the following Commands :
+- git add .
+- git commit -m "<Name of your Projects>"
+- git push
 
 * Come back to Github and Open a Pull Request
 * While making Pull Request maintain the template provided to you
